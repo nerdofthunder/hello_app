@@ -1,24 +1,8 @@
-# README
+# Ruby on Rails Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## "hello, world!"
 
-Things you may want to cover:
+My RoR experience is mostly based in software maintenance. I'm looking to
+fill a few gaps in my experience by running through some soup to nuts tutorials.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+It's also good to get some experience with rails 5!
